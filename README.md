@@ -102,3 +102,7 @@ Add sentiment analysis or market indicators
 Implement ensemble methods for better detection
 
 Extend analysis to other stocks or real-time data
+
+
+# Blog Post:
+https://stockpulseaptech.blogspot.com/2025/09/stockpulse-detecting-stock-market.html
