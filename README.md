@@ -106,3 +106,6 @@ Extend analysis to other stocks or real-time data
 
 # Blog Post:
 https://stockpulseaptech.blogspot.com/2025/09/stockpulse-detecting-stock-market.html
+
+#video Link
+https://www.mediafire.com/file/76bb7w226ggqg17/StockPulse.webm/file
